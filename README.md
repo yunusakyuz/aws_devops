@@ -61,6 +61,6 @@ The clarusway-workshop repository contains materials related to the IT trainings
 
 - The name of the folder should give detailed info about it's contents such as date/session, instructor and title:
 
-    - 06-30-2020-victor-using_package_manager
+    - 2020-06-30-victor-using-package-manager
     
-    - 07-19-2020-osvaldo-asg-2
+    - 2020-07-19-osvaldo-asg-2
